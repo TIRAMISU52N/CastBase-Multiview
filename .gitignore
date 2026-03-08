@@ -1,0 +1,29 @@
+# Python 缓存
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 虚拟环境
+venv/
+env/
+ENV/
+.venv/
+
+# PyInstaller 打包生成的文件
+build/
+dist/
+*.spec
+
+# Mac 系统生成的垃圾文件
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# 开发者工具配置 (VS Code 等)
+.vscode/
+.idea/
+
+# 您的本地私密配置文件 (如果有的话)
+config.json
+*.log
+*副本*.py
